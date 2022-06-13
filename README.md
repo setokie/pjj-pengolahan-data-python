@@ -1,2 +1,2 @@
 # pjj-pengolahan-data-python
-Pelatihan Jarak Jauh Pengolahan Data Menggunakan Python
+Draft Materi PJJ Pengolahan Data Menggunakan Python
